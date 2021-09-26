@@ -42,23 +42,23 @@ Using the Linear regression
   * Latitude and Wind Speed
 
 
-![image](https://user-images.githubusercontent.com/58860105/134819461-8f6bc788-16ec-4946-9fd8-3d730ad50c59.png)
+  ![image](https://user-images.githubusercontent.com/58860105/134819461-8f6bc788-16ec-4946-9fd8-3d730ad50c59.png)
 
 
 
-![image](https://user-images.githubusercontent.com/58860105/134819466-22765cdc-e913-4558-bf28-b34b858d0e41.png)
+  ![image](https://user-images.githubusercontent.com/58860105/134819466-22765cdc-e913-4558-bf28-b34b858d0e41.png)
 
 
 
-![image](https://user-images.githubusercontent.com/58860105/134819470-af27184f-42bb-4efe-a0b4-fa4937c0840e.png)
+  ![image](https://user-images.githubusercontent.com/58860105/134819470-af27184f-42bb-4efe-a0b4-fa4937c0840e.png)
 
 
 
-![image](https://user-images.githubusercontent.com/58860105/134819482-b1fbdbcd-9e85-43a6-99a5-d67ffd73d4ed.png)
+  ![image](https://user-images.githubusercontent.com/58860105/134819482-b1fbdbcd-9e85-43a6-99a5-d67ffd73d4ed.png)
 
 
 
-![image](https://user-images.githubusercontent.com/58860105/134819489-821b9bc5-59f5-4778-9631-740bee54844f.png)
+  ![image](https://user-images.githubusercontent.com/58860105/134819489-821b9bc5-59f5-4778-9631-740bee54844f.png)
 
 
 
