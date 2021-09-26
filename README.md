@@ -70,7 +70,7 @@ We make use of scatter plots to generate the parameter against the latitude of a
 
 # Resources used to Complete project Analysis
 
-CSV Files: https://github.com/Tobi1018/World_Weather_Analysis/blob/main/Weather_Database.ipynb/WeatherPy_Database.csv, WeatherPy_vacation.csv
+CSV Files: WeatherPy_Database.csv, WeatherPy_vacation.csv
 
 Jupyter Notebook Files: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
 
