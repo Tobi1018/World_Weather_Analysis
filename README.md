@@ -23,3 +23,13 @@ In delivery two, I make use of input statements to retrieve customer weather pre
 
 
 ![delivery2Capture](https://user-images.githubusercontent.com/58860105/134818757-fd3dc577-2af9-43ed-9021-1a239c991165.PNG)
+
+
+## Delivery Three
+
+In delivery three, I make use of Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Using the marker layer, create pop-up markers for each destination on the itinerary.
+
+![image](https://user-images.githubusercontent.com/58860105/134818886-bec53658-eb64-45e8-829c-3faa2ea33833.png)
+
+![image](https://user-images.githubusercontent.com/58860105/134818894-38e2c3bc-a6f5-4a64-9b56-0a8411fd3e43.png)
+
