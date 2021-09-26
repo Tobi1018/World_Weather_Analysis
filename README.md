@@ -68,3 +68,9 @@ We make use of scatter plots to generate the parameter against the latitude of a
 
 
 
+Resources used to Complete project Analysis
+CSV Files: Weather_Database.csv, WeatherPy_vacation.csv
+
+Jupyter Notebook Files:: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
+
+Python: Python Dependencies: Pandas, Matplotlib, CitiPy, Python Requests, APIs, JSON.
