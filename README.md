@@ -33,3 +33,10 @@ In delivery three, I make use of Google Directions API to create a travel itiner
 
 ![image](https://user-images.githubusercontent.com/58860105/134818894-38e2c3bc-a6f5-4a64-9b56-0a8411fd3e43.png)
 
+## Statistical Analysis 
+Using the Linear regression
+
+  * Latitude and Maximum Temperature
+  * Latitude and Humidity
+  * Latitude and Cloudiness
+  * Latitude and Wind Speed
