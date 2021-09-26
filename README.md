@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 # Project Overview
-
+In this project, we intend to collect, analyze, and visualize weather data across cities worldwide, in addition to providing travelers with a tool that will allow them to select a destination based on the weather. Using Google Maps Directions API, create a route between the four cities as well as a marker layer map.
 
 
 
