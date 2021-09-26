@@ -42,7 +42,7 @@ Using the Linear regression
   * Latitude and Wind Speed
 
 
-  ![image](https://user-images.githubusercontent.com/58860105/134819461-8f6bc788-16ec-4946-9fd8-3d730ad50c59.png)
+  <img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">![image](https://user-images.githubusercontent.com/58860105/134819461-8f6bc788-16ec-4946-9fd8-3d730ad50c59.png)
 
 
 
