@@ -72,6 +72,6 @@ We make use of scatter plots to generate the parameter against the latitude of a
 
 CSV Files: Weather_Database.csv, WeatherPy_vacation.csv
 
-Jupyter Notebook Files:: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
+Jupyter Notebook Files: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
 
 Python: Python Dependencies: Pandas, Matplotlib, CitiPy, Python Requests, APIs, JSON.
