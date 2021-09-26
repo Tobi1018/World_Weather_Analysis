@@ -44,6 +44,8 @@ Using the Linear regression
 
 ## Scatter Plots
 
+We make use of scatter plots to generate the parameter against the latitude of all cities. 
+
 ![image](https://user-images.githubusercontent.com/58860105/134819354-6f69f743-e8dd-414e-aea7-d00f26bbcdd0.png)
 
 ![image](https://user-images.githubusercontent.com/58860105/134819363-8b6d9807-d534-4e7a-b595-1f1824032f42.png)
