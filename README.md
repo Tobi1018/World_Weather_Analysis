@@ -4,7 +4,7 @@
 
 
 
-##Delivery One; 
+## Delivery One; 
 
 In the delivery one, I Generated a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data gathered in the module, I make use of API Knowledge to retrieve the current weather description for each city. Afterward, create a new DataFrame with the updated weather data.
 
