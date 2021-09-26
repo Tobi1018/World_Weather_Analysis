@@ -40,3 +40,17 @@ Using the Linear regression
   * Latitude and Humidity
   * Latitude and Cloudiness
   * Latitude and Wind Speed
+
+
+## Scatter Plots
+
+![image](https://user-images.githubusercontent.com/58860105/134819354-6f69f743-e8dd-414e-aea7-d00f26bbcdd0.png)
+
+![image](https://user-images.githubusercontent.com/58860105/134819363-8b6d9807-d534-4e7a-b595-1f1824032f42.png)
+
+![image](https://user-images.githubusercontent.com/58860105/134819370-ee126d95-6f80-4c8b-94fb-490c17027074.png)
+
+![image](https://user-images.githubusercontent.com/58860105/134819375-61306cf6-7ee1-495b-bf6b-e44f01ece599.png)
+
+
+
